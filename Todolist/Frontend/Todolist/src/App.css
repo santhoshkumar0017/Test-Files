@@ -1,0 +1,10 @@
+
+
+.task-box{
+    width: 200px;
+    height: 300px;
+}
+
+.pending{
+    text-decoration: line-through;
+}
